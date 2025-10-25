@@ -96,7 +96,7 @@ docker restart parcial-db
 docker exec -it parcial-db psql -U admin -d parcial_db -c "SELECT * FROM estudiantes;"
 ```
 
-Ejercicio 3 - Integración Completa con Docker Compose
+# Ejercicio 3 - Integración Completa con Docker Compose
 Objetivo
 Integrar los servicios en un único archivo docker-compose.yml con red, dependencias y healthcheck.
 
