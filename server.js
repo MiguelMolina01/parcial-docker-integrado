@@ -20,7 +20,7 @@ app.get('/', (req, res) => {
     estudiante: 'Miguel Angel Molina Cruz',
     carrera: 'Ingenieria en Sistemas Computacionales',
     codigo: 'MC22I04002',
-    universidad: 'Universidad de Sonora',
+    universidad: 'Universidad de Sonsonate',
     mensaje: 'Parcial Docker - Ejercicio Integrado'
   });
 });
